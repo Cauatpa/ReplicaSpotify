@@ -17,3 +17,25 @@ StricMode = Renderiza seu componente 2x, para testar o desenvolvimento do projet
 spread operator = cria a copia de um Array ou obj (...)
 
 npm i react-routen-dom = cria paginas diferentes / rotas
+
+hook - useStade
+
+API = Application Programing Interface
+
+REQUISIÇÕES = POST, GET, PUT, DELETE - CRUD = Create Read Update Delete
+
+FEXH / AXIOS = Resquisições
+
+Middleware = function
+
+
+import { artistArray } from "../../../API/API.js";
+
+export { artistArray };
+
+
+
+
+import { songsArray } from "../../../API/API.js";
+
+export { songsArray };
