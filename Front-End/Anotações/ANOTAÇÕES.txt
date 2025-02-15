@@ -1,0 +1,19 @@
+ANOTAÇÕES AULA 1
+
+npm node packet manager
+
+cd " seleciona a pasta ou caminho que quer entrar"
+
+npm creat vite@latest . (o ponto serve para baixar na pasta ou arquivo selecionado)
+
+npm i (atualiza o npm)
+
+npm run dev (roda o codigo por local host)
+
+rafce - importa o react e cria a função.
+
+StricMode = Renderiza seu componente 2x, para testar o desenvolvimento do projeto e evitar problemas.
+
+spread operator = cria a copia de um Array ou obj (...)
+
+npm i react-routen-dom = cria paginas diferentes / rotas
